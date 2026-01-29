@@ -3,7 +3,7 @@
 I am a **Software Engineer** specializing in Java and Cloud Development. With a background in integration development and a passion for data-driven problem solving, I enjoy building scalable backend solutions and managing cloud infrastructure.
 
 ### 🎓 Education & Certifications
-- **Certified Java Developer** (IT-Högskolan, Gothenburg)
+- **Java Developer** (IT-Högskolan, Gothenburg)
 - **Certified Cloud Developer** (NBI-Handelsakademien) – Focus on AWS, Azure & GCP
 
 ### 🛠 Tech Stack
