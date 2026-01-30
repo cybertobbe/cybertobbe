@@ -14,6 +14,7 @@ I am a **Software Engineer** specializing in Java and Cloud Development. With a 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+![MQL](https://img.shields.io/badge/MQL4%2F5-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### 🚀 Experience Highlights
